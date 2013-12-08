@@ -1,0 +1,179 @@
+body {
+	font-family: "Roboto", Tahoma, Arial, sans-serif;
+	font-size: 12pt;
+	color: #595959;
+	background-color: #E0E0E0
+
+}
+
+#page {
+	max-width: 960px;
+	min-width: 540px;
+	margin: 10px auto 25px auto;
+	padding: 15px 15px 15px;
+	background-color: white;
+	overflow: auto;
+}
+
+#logo {
+	width: auto;
+	height: 125px;
+	background-color: white;
+	text-align: center;
+}
+
+
+#head {
+	margin-bottom: 12px;
+	border-bottom: 2px solid #D1D1D1;
+	font-size: 14pt;
+}
+
+li.navbarlist {
+	display: inline;
+	margin: 0px 20px;
+	list-style-type: none;
+}
+
+.box {
+	width: 280px;
+	height: 900px;
+	padding: 10px 10px 10px;
+	margin: 10px 10px 10px;
+	background-color: #E0E0E0;
+
+}
+
+#wilson {
+	float: left;
+}
+
+#fritz {
+	float: left;
+}
+
+#poulsen {
+	float: right;
+}
+
+li.keytakeaways {
+	list-style-type: disc;
+}
+
+h1 {
+	text-align: center;
+	color: #48631E; 
+}
+
+h2 {
+	font-weight: 900;
+}
+
+a {
+	color: #506E23;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #82A845;
+}
+
+#meeting {
+	max-width: 960px;
+	max-height: 500px;
+}
+
+#contact {
+	margin: 10px;
+	width: 300px;
+	float: left;
+}
+
+#newsletterimg {
+	max-width: 960px;
+	max-height: 350px;
+}
+
+iframe {
+	padding: 5px 5px 25px;
+	float: right;
+}
+
+#form {
+	margin: 10px auto 10px auto;
+	padding: 10px 10px 10px;
+	text-align: center;
+	background-color: #E0E0E0;
+	clear: both;
+}
+
+fieldset {
+	border: none;
+}
+
+td {
+	padding: 5px 10px 5px;
+}
+
+#comments {
+	text-align: left;
+}
+
+small {
+	font-size: 9pt;
+}
+
+.odd {
+	background-color: #E0E0E0;
+}
+
+.homehead {
+	text-align: center;
+}
+
+.homecolumns {
+	text-align: center;
+	
+}
+
+#homepleft {
+	width: 45%;
+	float: left;
+}
+
+#homepright {
+	float: right;
+	clear: none;
+	width: 45%;
+}
+
+footer {
+	clear: both;
+	position: bottom;
+	font-size: 9pt;
+	text-align: center;
+}
+
+.footimg {
+	width: 150px;
+	height: 130px;
+	padding: 5px 5px 5px;
+}
+
+.footernav {
+	display: inline;
+	margin: 0px 6px;
+	list-style-type: none;
+	font-size: 11pt;
+	width: auto;
+
+}
+
+#foot {
+	border-top: 4px double #D1D1D1;
+	border-bottom: 4px double #D1D1D1;
+	text-align: center;
+	margin-top: 10px;
+}
+
+
